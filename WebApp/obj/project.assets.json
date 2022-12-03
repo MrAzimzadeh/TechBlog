@@ -10507,11 +10507,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\MahammadAz\\Desktop\\ComparAcademy\\MvcProje\\K317TechBlog-master\\WebApp\\WebApp.csproj",
+      "projectUniqueName": "C:\\Users\\MahammadAz\\Desktop\\ComparAcademy\\MvcProje\\K317TechBlog-master\\TechBlog\\WebApp\\WebApp.csproj",
       "projectName": "WebApp",
-      "projectPath": "C:\\Users\\MahammadAz\\Desktop\\ComparAcademy\\MvcProje\\K317TechBlog-master\\WebApp\\WebApp.csproj",
+      "projectPath": "C:\\Users\\MahammadAz\\Desktop\\ComparAcademy\\MvcProje\\K317TechBlog-master\\TechBlog\\WebApp\\WebApp.csproj",
       "packagesPath": "C:\\Users\\MahammadAz\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\MahammadAz\\Desktop\\ComparAcademy\\MvcProje\\K317TechBlog-master\\WebApp\\obj\\",
+      "outputPath": "C:\\Users\\MahammadAz\\Desktop\\ComparAcademy\\MvcProje\\K317TechBlog-master\\TechBlog\\WebApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

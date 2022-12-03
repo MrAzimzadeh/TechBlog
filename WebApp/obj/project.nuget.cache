@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Cimd085Z2An8unYWAxpvEThusAvnfR8pOI4CVwtEAlpugNBzV5QFA5Y2Xekmq7rGsEyHBl6SJA8PJYoHO1T50A==",
+  "dgSpecHash": "Kwpdzm/VCAv+WFV1P53K2bh5L161iqo39CHUKFu8esM3qZlZbyVmUU37OUsVK5iNAyww8K94WXDyti9k79lQdA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\MahammadAz\\Desktop\\ComparAcademy\\MvcProje\\K317TechBlog-master\\WebApp\\WebApp.csproj",
+  "projectFilePath": "C:\\Users\\MahammadAz\\Desktop\\ComparAcademy\\MvcProje\\K317TechBlog-master\\TechBlog\\WebApp\\WebApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\MahammadAz\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\MahammadAz\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
