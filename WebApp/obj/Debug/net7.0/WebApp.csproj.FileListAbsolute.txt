@@ -277,9 +277,6 @@ C:\Users\MahammadAz\Desktop\ComparAcademy\MvcProje\K317TechBlog-master\WebApp\ob
 C:\Users\MahammadAz\Desktop\ComparAcademy\MvcProje\K317TechBlog-master\WebApp\obj\Debug\net7.0\ref\WebApp.dll
 C:\Users\MahammadAz\Desktop\ComparAcademy\MvcProje\K317TechBlog-master\TechBlog\WebApp\bin\Debug\net7.0\appsettings.Development.json
 C:\Users\MahammadAz\Desktop\ComparAcademy\MvcProje\K317TechBlog-master\TechBlog\WebApp\bin\Debug\net7.0\appsettings.json
-C:\Users\MahammadAz\Desktop\ComparAcademy\MvcProje\K317TechBlog-master\TechBlog\WebApp\bin\Debug\net7.0\Temalar\startbootstrap-sb-admin-2-gh-pages\package-lock.json
-C:\Users\MahammadAz\Desktop\ComparAcademy\MvcProje\K317TechBlog-master\TechBlog\WebApp\bin\Debug\net7.0\Temalar\startbootstrap-sb-admin-2-gh-pages\package.json
-C:\Users\MahammadAz\Desktop\ComparAcademy\MvcProje\K317TechBlog-master\TechBlog\WebApp\bin\Debug\net7.0\Temalar\startbootstrap-sb-admin-2-gh-pages\vendor\fontawesome-free\package.json
 C:\Users\MahammadAz\Desktop\ComparAcademy\MvcProje\K317TechBlog-master\TechBlog\WebApp\bin\Debug\net7.0\WebApp.staticwebassets.runtime.json
 C:\Users\MahammadAz\Desktop\ComparAcademy\MvcProje\K317TechBlog-master\TechBlog\WebApp\bin\Debug\net7.0\WebApp.exe
 C:\Users\MahammadAz\Desktop\ComparAcademy\MvcProje\K317TechBlog-master\TechBlog\WebApp\bin\Debug\net7.0\WebApp.deps.json
@@ -555,3 +552,9 @@ C:\Users\MahammadAz\Desktop\ComparAcademy\MvcProje\K317TechBlog-master\TechBlog\
 C:\Users\MahammadAz\Desktop\ComparAcademy\MvcProje\K317TechBlog-master\TechBlog\WebApp\obj\Debug\net7.0\WebApp.pdb
 C:\Users\MahammadAz\Desktop\ComparAcademy\MvcProje\K317TechBlog-master\TechBlog\WebApp\obj\Debug\net7.0\WebApp.genruntimeconfig.cache
 C:\Users\MahammadAz\Desktop\ComparAcademy\MvcProje\K317TechBlog-master\TechBlog\WebApp\obj\Debug\net7.0\ref\WebApp.dll
+C:\Users\MahammadAz\Desktop\ComparAcademy\MvcProje\K317TechBlog-master\TechBlog\WebApp\bin\Debug\net7.0\Themes\startbootstrap-sb-admin-2-gh-pages\package-lock.json
+C:\Users\MahammadAz\Desktop\ComparAcademy\MvcProje\K317TechBlog-master\TechBlog\WebApp\bin\Debug\net7.0\Themes\startbootstrap-sb-admin-2-gh-pages\package.json
+C:\Users\MahammadAz\Desktop\ComparAcademy\MvcProje\K317TechBlog-master\TechBlog\WebApp\bin\Debug\net7.0\Themes\startbootstrap-sb-admin-2-gh-pages\vendor\fontawesome-free\package.json
+C:\Users\MahammadAz\Desktop\ComparAcademy\MvcProje\K317TechBlog-master\TechBlog\WebApp\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\MahammadAz\Desktop\ComparAcademy\MvcProje\K317TechBlog-master\TechBlog\WebApp\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\MahammadAz\Desktop\ComparAcademy\MvcProje\K317TechBlog-master\TechBlog\WebApp\obj\Debug\net7.0\WebApp.MvcApplicationPartsAssemblyInfo.cs
